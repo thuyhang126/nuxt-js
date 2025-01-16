@@ -13,6 +13,7 @@
     "@nuxt/content": "^2.13.4",
     "axios": "^1.7.9",
     "nuxt": "^3.14.1592",
+    "swiper": "^11.2.1",
     "vue": "latest",
     "vue-router": "latest"
   }

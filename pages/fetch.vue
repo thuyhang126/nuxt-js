@@ -15,7 +15,7 @@ const { data: posts } = await useFetch('https://jsonplaceholder.typicode.com/pos
 
 <style scoped>
 ul {
-  max-width: 900px;
+  max-width: 1000px;
   padding: 50px 0 0;
   margin: 0 auto;
   display: flex;
@@ -31,9 +31,11 @@ li {
 span {
   font-size: 24px;
   font-weight: 600;
+  color: yellowgreen;
 }
 p {
   font-size: 16px;
   font-weight: 500;
+  text-align: justify;
 }
 </style>
