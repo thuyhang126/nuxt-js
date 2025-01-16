@@ -4,4 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/content'], 
   ssr: true,
+  app: {
+    baseURL: '/nuxt-js/',
+  },
 })
